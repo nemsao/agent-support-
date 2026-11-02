@@ -1,0 +1,19 @@
+node_modules/
+dist/
+dist-electron/
+dist-electron-build/
+agents/
+.history/
+.claude/
+.idea/
+.env
+.env.local
+.env.production
+*.log
+.DS_Store
+tmp/
+docs/
+.vscode/
+
+# Cloned mautrix/meta fork (see src/bridge-e2ee/go.mod)
+src/bridge-e2ee/meta/
